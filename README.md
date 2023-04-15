@@ -11,6 +11,7 @@
    7. [发布订阅模式](#a7)
    8. [责任链模式](#a8)
    9. [单例模式](#a9)
+   10. [适配器模式](#a10)
 
 
 
@@ -43,3 +44,7 @@
 ##  <a name="a9"></a> 单例模式
 
 单例模式代码演示 [demo](oxy-design-mode-demo/src/main/java/com/oxygen/singleton/DesignModeTest.java).
+
+##  <a name="a10"></a> 适配器模式
+
+适配器模式代码演示 [demo](oxy-design-mode-demo/src/main/java/com/oxygen/adapter/AdapterTest.java).
