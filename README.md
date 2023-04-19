@@ -12,6 +12,8 @@
    8. [责任链模式](#a8)
    9. [单例模式](#a9)
    10. [适配器模式](#a10)
+   11. [享元模式](#a11)
+   12. [外观模式](#a12)
 
 
 
@@ -48,3 +50,11 @@
 ##  <a name="a10"></a> 适配器模式
 
 适配器模式代码演示 [demo](oxy-design-mode-demo/src/main/java/com/oxygen/adapter/AdapterTest.java).
+
+##  <a name="a11"></a> 享元模式
+
+享元模式代码演示 [demo](oxy-design-mode-demo/src/main/java/com/oxygen/flyweight/FlyweightTest.java).
+
+##  <a name="a12"></a> 外观模式
+
+外观模式代码演示 [demo](oxy-design-mode-demo/src/main/java/com/oxygen/facade/FacadeTest.java).
